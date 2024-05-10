@@ -6,4 +6,6 @@
 a. The number of calories, and
 b. The food group that the ingredient belongs to. 
 6. The software shall calculate and display the total calories of all the ingredients in a recipe. 
-7. The software shall notify the user when the total calories of a recipe exceed 300. 
+7. The software shall notify the user when the total calories of a recipe exceed 300.
+   
+https://github.com/ST10388547/Prog6221-Part2
